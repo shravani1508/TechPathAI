@@ -25,7 +25,7 @@ TechPathAI is a web-based career guidance platform designed to help students exp
 2. Copy the project folder into `C:\xampp\htdocs\`.
 3. Start Apache and MySQL from the XAMPP Control Panel.
 4. Create and configure the MySQL database using your local database configuration.
-5. Keep API keys and database credentials in local configuration files. Do not upload secrets to GitHub.
+5. Keep API keys and database credentials in local configuration files.
 6. Open `http://localhost/TechPathAI/` in your browser.
 
 ## Project Purpose
